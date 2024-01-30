@@ -15,7 +15,10 @@ body {
 }
 
 .main {
-    width: 25vw;
+    /* width: 25vw; */
+    min-width: 25vw;
+    padding: 0px 20px;
+    width: auto;
     height: auto;
     /* border: 2px solid royalblue; */
     padding: 10px 10px;
